@@ -1,0 +1,2 @@
+# owncloudsetupwithcentos
+setup owncloud 
